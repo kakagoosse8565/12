@@ -1,1 +1,1279 @@
-# 12
+#EXTM3U
+#EXTINF:-1,|AR| Al.SHARIKA.SPORTS
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/83404
+#EXTINF:-1,|MA| MEDI1_TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5168
+#EXTINF:-1,|MA| 2M MONDE_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13647
+#EXTINF:-1,|MA| MEDI1_TV FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13642
+#EXTINF:-1,|MA| ALOULA_MAROC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13641
+#EXTINF:-1,|MA| 2M_MAROC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4327
+#EXTINF:-1,|MA| TELE-MAROC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8137
+#EXTINF:-1,|MA| ALOULA_MAROC_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4504
+#EXTINF:-1,|MA| AL MAGHRIBIA HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4507
+#EXTINF:-1,|MA| MEDI1_SAT_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4505
+#EXTINF:-1,|FR| FRANCE 24_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5649
+#EXTINF:-1,|AR| MBC_Masr1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13530
+#EXTINF:-1,|AR| MBC_Masr2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13529
+#EXTINF:-1,|MA| AFLAM TV_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/7920
+#EXTINF:-1,|AR| SAUDI.1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/75008
+#EXTINF:-1,SAUDI.QURAN
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/75009
+#EXTINF:-1,Saudi Sunnah
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/75010
+#EXTINF:-1,|FR| CNEWS HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/83406
+#EXTINF:-1,|.BE.| CURIOUS FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82314
+#EXTINF:-1,|.BE.| LA UNE FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82313
+#EXTINF:-1,|.BE.| LA DEUX FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82312
+#EXTINF:-1,|.BE.| LA TROIS FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82311
+#EXTINF:-1,|.BE.| CLUB RTL FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82310
+#EXTINF:-1,|.BE.| PLUG RTL FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82309
+#EXTINF:-1,|.BE.| RTL TVI FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82308
+#EXTINF:-1,|.BE.| DO IT TV FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82307
+#EXTINF:-1,|.BE.| EEN FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82306
+#EXTINF:-1,|.BE.| NO TELE
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82305
+#EXTINF:-1,|.BE.| VIER FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82304
+#EXTINF:-1,|.BE.| VTM FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82303
+#EXTINF:-1,|.BE.| VTM KAZOOM
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82302
+#EXTINF:-1,|.BE.| Q2 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82301
+#EXTINF:-1,|.BE.| AB EXPLORE
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82300
+#EXTINF:-1,|.BE.| RTL LOUNGE FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82299
+#EXTINF:-1,|.BE.| BX 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82298
+#EXTINF:-1,|.BE.| TELE MB FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82297
+#EXTINF:-1,|.BE.| CINE FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82296
+#EXTINF:-1,|.BE.| SERIES FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82295
+#EXTINF:-1,|.BE.| CANVAS FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82294
+#EXTINF:-1,|.BE.| KET OP12
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82293
+#EXTINF:-1,|.BE.| ACHT TV FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82292
+#EXTINF:-1,|.BE.| TV LUX FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82291
+#EXTINF:-1,|.BE.| CANAL C FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82290
+#EXTINF:-1,|.BE.| 192 TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82289
+#EXTINF:-1,|.BE.| VOO WORLD 1 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82288
+#EXTINF:-1,|.BE.| VOO SPORT 1 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82287
+#EXTINF:-1,|.BE.| VOO SPORT WORLD 2 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82286
+#EXTINF:-1,|.BE.| VOO SPORT WORLD 3 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82285
+#EXTINF:-1,|.BE.| ELEVEN SPORT 1 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82284
+#EXTINF:-1,|.BE.| ELEVEN SPORT 2 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82283
+#EXTINF:-1,|.BE.| ELEVEN SPORT 3 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82282
+#EXTINF:-1,|.BE.| PROXIMUS 1 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82281
+#EXTINF:-1,|.BE.| PROXIMUS 11 +1 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82280
+#EXTINF:-1,|.BE.| PROXIMUS 11 +2 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82279
+#EXTINF:-1,|.BE.| PROXIMUS 11 +3 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82278
+#EXTINF:-1,|.BE.| LA UNE
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82277
+#EXTINF:-1,|.BE.| LA UNE HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82276
+#EXTINF:-1,|.BE.| LA DEUX
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82275
+#EXTINF:-1,|.BE.| LA DEUX HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82274
+#EXTINF:-1,|.BE.| LA TROIS
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82273
+#EXTINF:-1,|.BE.| LA TROIS HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82272
+#EXTINF:-1,|.BE.| RTL TVI
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82271
+#EXTINF:-1,|.BE.| PLUG RTL
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82270
+#EXTINF:-1,|.BE.| PLUG RTL HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82269
+#EXTINF:-1,|.BE.| CLUB RTL
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82268
+#EXTINF:-1,|.BE.| CLUB RTL HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82267
+#EXTINF:-1,|.BE.| 2BE HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82266
+#EXTINF:-1,|.BE.| BEL RTL
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82265
+#EXTINF:-1,|.BE.| CINEMA 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82264
+#EXTINF:-1,|.BE.| CINEMA 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82263
+#EXTINF:-1,|.BE.| EEN
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82262
+#EXTINF:-1,|.BE.| EEN HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82261
+#EXTINF:-1,|.BE.| BFM
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82260
+#EXTINF:-1,|.BE.| CANVAS
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82259
+#EXTINF:-1,|.BE.| CANVAS HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82258
+#EXTINF:-1,|.BE.| VTM
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82257
+#EXTINF:-1,|.BE.| VTM HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82256
+#EXTINF:-1,|.BE.| CAZ
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82255
+#EXTINF:-1,|.BE.| KETOP12
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82254
+#EXTINF:-1,|.BE.| MY COMEDY
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82253
+#EXTINF:-1,|.BE.| Q2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82252
+#EXTINF:-1,|.BE.| Q2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82251
+#EXTINF:-1,|.BE.| TVO HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82250
+#EXTINF:-1,|.BE.| VIER
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82249
+#EXTINF:-1,|.BE.| VIER HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82248
+#EXTINF:-1,|.BE.| VITAYA
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82247
+#EXTINF:-1,|.BE.| ZES
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82246
+#EXTINF:-1,|.BE.| VOO SPORT 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82245
+#EXTINF:-1,|.BE.| VOO SPORT WORLD 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82244
+#EXTINF:-1,|.BE.| ELEVEN SPORTS
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82243
+#EXTINF:-1,|.BE.| ELEVEN SPORTS 2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82242
+#EXTINF:-1,|.BE.| RTL TVI HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/82241
+#EXTINF:-1,|FR| TELEFOOT STADIUM 1 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81867
+#EXTINF:-1,|FR| TELEFOOT STADIUM 2 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81866
+#EXTINF:-1,|FR| TELEFOOT STADIUM 3 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81865
+#EXTINF:-1,|FR| TELEFOOT STADIUM 4 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81864
+#EXTINF:-1,|FR| TELEFOOT STADIUM 6 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81862
+#EXTINF:-1,|FR| TELEFOOT STADIUM 7 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81861
+#EXTINF:-1,|FR| TELEFOOT STADIUM 8 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81860
+#EXTINF:-1,|FR| TV5_INFO
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/80240
+#EXTINF:-1,|FR| 13EME_RUE_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4731
+#EXTINF:-1,|FR| 6TER_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5230
+#EXTINF:-1,|FR| AB1_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4883
+#EXTINF:-1,|FR| ACTION_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4880
+#EXTINF:-1,|FR| ARTE_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5414
+#EXTINF:-1,|FR| BFM_TV_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5420
+#EXTINF:-1,|FR| BOING_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4251
+#EXTINF:-1,|FR| BOOMERANG_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5449
+#EXTINF:-1,|FR| BEINSPORT_1_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5525
+#EXTINF:-1,|FR| BEINSPORT_2_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5526
+#EXTINF:-1,|FR| C_STAR_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5228
+#EXTINF:-1,|FR| C8_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5227
+#EXTINF:-1,|FR| CINE_EMOTION_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4876
+#EXTINF:-1,|FR| CANAL+_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4246
+#EXTINF:-1,|FR| CHERIE_25_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5229
+#EXTINF:-1,|FR| POLAR_PLUS_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4878
+#EXTINF:-1,|FR| CINE_PREMIER_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4874
+#EXTINF:-1,|FR| COMEDIE+_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4882
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4271
+#EXTINF:-1,|FR| CINE_CLASSIC_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4873
+#EXTINF:-1,|FR| CANAL_SERIES_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4259
+#EXTINF:-1,|FR| CINE_FRISSON_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4875
+#EXTINF:-1,|FR| CINE_FAMIZ_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4872
+#EXTINF:-1,|FR| CANAL+ FAMILY HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4273
+#EXTINF:-1,|FR| CANAL+ DECALE HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4272
+#EXTINF:-1,|FR| CANAL+ CINEMA HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5432
+#EXTINF:-1,|FR| DISCOVERY_SCIENCE_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4269
+#EXTINF:-1,|FR| DISNEY_CINEMA_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5447
+#EXTINF:-1,|FR| DISNEY_CHANNEL +1_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5793
+#EXTINF:-1,|FR| DISNEY_XD_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4889
+#EXTINF:-1,|FR| DISCOVERY_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4738
+#EXTINF:-1,|FR| DISNEY_CHANNEL_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5537
+#EXTINF:-1,|FR| DISNEY_JUNIOR_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4891
+#EXTINF:-1,|FR| DISNEY XD_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5536
+#EXTINF:-1,|FR| EQUIDIA-LIVE_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5531
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5534
+#EXTINF:-1,|FR| EUROSPORT 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5533
+#EXTINF:-1,|FR| FRANCE_2_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4725
+#EXTINF:-1,|FR| FRANCE_3_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4727
+#EXTINF:-1,|FR| FRANCE_4_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4728
+#EXTINF:-1,|FR| FRANCE_5_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4729
+#EXTINF:-1,|FR| GAME ONE
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4904
+#EXTINF:-1,|FR| GULLI HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5571
+#EXTINF:-1,|FR| TF1_series_Films_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5425
+#EXTINF:-1,|FR| LCI_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4367
+#EXTINF:-1,|FR| M6_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/3989
+#EXTINF:-1,|FR| M6_MUSIC HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5444
+#EXTINF:-1,|FR| MANGAS HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4899
+#EXTINF:-1,|FR| NATIONAL_GEOGRAPHIC_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5559
+#EXTINF:-1,|FR| NAT-GEO_WILD_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5560
+#EXTINF:-1,|FR| TFX_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5225
+#EXTINF:-1,|FR| RMC Story_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4369
+#EXTINF:-1,|FR|  NICKELODEON HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4902
+#EXTINF:-1,|FR| OCS_Geants_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4266
+#EXTINF:-1,|FR| OCS_CHOC_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4267
+#EXTINF:-1,|FR| PARAMOUNT_CHANNEL_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4887
+#EXTINF:-1,|FR| PARIS_PREMIERE_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5429
+#EXTINF:-1,|FR| PLANETE_CI_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5564
+#EXTINF:-1,|FR| PLANETE_AE_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5565
+#EXTINF:-1,|FR| PLANETE+_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4263
+#EXTINF:-1,|FR| PIWI_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5451
+#EXTINF:-1,|FR| RMC_DECOUVERTE_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4749
+#EXTINF:-1,|FR| SERIE_CLUB_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4879
+#EXTINF:-1,|FR| SEASON_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5563
+#EXTINF:-1,|FR| SYFY_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5436
+#EXTINF:-1,|FR| TELETOON+_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5539
+#EXTINF:-1,|FR| TELETOON_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5450
+#EXTINF:-1,|FR| TF1_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/3984
+#EXTINF:-1,|FR| TCM_CINEMA_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5416
+#EXTINF:-1,|FR| TIJI_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4896
+#EXTINF:-1,|FR| TMC_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5223
+#EXTINF:-1,|FR| USHUAIA_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4258
+#EXTINF:-1,|FR| VOYAGE_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4751
+#EXTINF:-1,|FR| W9_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5222
+#EXTINF:-1,|FR| BFM BUSINESS
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/74585
+#EXTINF:-1,BOX_OFFICE.1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6234
+#EXTINF:-1,BOX_OFFICE.2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6223
+#EXTINF:-1,BOX_OFFICE.3
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6216
+#EXTINF:-1,BOX_OFFICE.4
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6215
+#EXTINF:-1,BOX_OFFICE.5
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6214
+#EXTINF:-1,BOX_OFFICE.6
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6213
+#EXTINF:-1,BOX_OFFICE.7
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6212
+#EXTINF:-1,BOX_OFFICE.9
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6210
+#EXTINF:-1,BOX_OFFICE.11
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6232
+#EXTINF:-1,BOX_OFFICE.12
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6231
+#EXTINF:-1,BOX_OFFICE.13
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6230
+#EXTINF:-1,BOX_OFFICE.14
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6229
+#EXTINF:-1,BOX_OFFICE.15
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6228
+#EXTINF:-1,BOX_OFFICE.16
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6227
+#EXTINF:-1,BOX_OFFICE.17
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6226
+#EXTINF:-1,BOX_OFFICE.18
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6225
+#EXTINF:-1,BOX_OFFICE.20
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6222
+#EXTINF:-1,BOX_OFFICE.21
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6221
+#EXTINF:-1,BOX_OFFICE.22
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6220
+#EXTINF:-1,BOX_OFFICE.23
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6219
+#EXTINF:-1,|FR| CANAL+_TOP14
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81859
+#EXTINF:-1,|FR| TELEFOOT STADIUM 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81858
+#EXTINF:-1,|FR| TELEFOOT STADIUM 2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81857
+#EXTINF:-1,|FR| TELEFOOT STADIUM 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81856
+#EXTINF:-1,|FR| TELEFOOT STADIUM 3
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81855
+#EXTINF:-1,|FR| TELEFOOT STADIUM 3 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81854
+#EXTINF:-1,|FR| TELEFOOT STADIUM 4
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81853
+#EXTINF:-1,|FR| TELEFOOT STADIUM 4 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81852
+#EXTINF:-1,|FR| TELEFOOT STADIUM 5
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81851
+#EXTINF:-1,|FR| TELEFOOT STADIUM 5 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81850
+#EXTINF:-1,|FR| TELEFOOT STADIUM 6
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81849
+#EXTINF:-1,|FR| TELEFOOT STADIUM 6 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81848
+#EXTINF:-1,|FR| TELEFOOT STADIUM 7
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81847
+#EXTINF:-1,|FR| TELEFOOT STADIUM 7 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81846
+#EXTINF:-1,|FR| TELEFOOT STADIUM 8
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81845
+#EXTINF:-1,|FR| TELEFOOT STADIUM 8 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/81844
+#EXTINF:-1,|FR| TV_BREIZH_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6050
+#EXTINF:-1,|FR| TEVA_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6111
+#EXTINF:-1,|FR| LCI_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6049
+#EXTINF:-1,|FR| GOLF+ HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6145
+#EXTINF:-1,|FR| RMC_SPORT 1 HD Bk
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6053
+#EXTINF:-1,FR| RMC_SPORT 2 HD Bk
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6052
+#EXTINF:-1,|FR| NRJ_12_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6054
+#EXTINF:-1,|TR| TRT 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84409
+#EXTINF:-1,|TR| TRT 1 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84408
+#EXTINF:-1,|TR| TRT 4K
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84407
+#EXTINF:-1,|TR| ATV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84406
+#EXTINF:-1,|TR| ATV hevc
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84405
+#EXTINF:-1,|TR| TV A
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84404
+#EXTINF:-1,|TR| SHOW TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84403
+#EXTINF:-1,|TR| STAR TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84402
+#EXTINF:-1,|TR| TV 8 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84401
+#EXTINF:-1,|TR| FOX TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84400
+#EXTINF:-1,|TR| BEYAZ TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84399
+#EXTINF:-1,|TR| A2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84398
+#EXTINF:-1,|TR| KANAL 7 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84397
+#EXTINF:-1,|TR| TV 8.5 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84396
+#EXTINF:-1,|TR| TV 360 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84395
+#EXTINF:-1,|TR| AKTIF TV BELCIKA
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84394
+#EXTINF:-1,|TR| TV 8 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84393
+#EXTINF:-1,|TR| TV 8.5 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84392
+#EXTINF:-1,|TR| BEYAZ TV FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84391
+#EXTINF:-1,|TR| A2 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84390
+#EXTINF:-1,|TR| KANAL 7 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84389
+#EXTINF:-1,|TR| TRT BELGESEL FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84388
+#EXTINF:-1,|TR| TRT SPOR FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84387
+#EXTINF:-1,|TR| CNN TURK HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84386
+#EXTINF:-1,|TR| HABERTURK FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84385
+#EXTINF:-1,|TR| TRT HABER FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84384
+#EXTINF:-1,|TR| NTV FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84383
+#EXTINF:-1,|TR| TRT HABER HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84382
+#EXTINF:-1,|TR| NTV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84381
+#EXTINF:-1,|TR| HABERTURK HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84380
+#EXTINF:-1,|TR| A NEWS HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84379
+#EXTINF:-1,|TR| BLOOMBERG HT HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84378
+#EXTINF:-1,|TR| 24 TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84377
+#EXTINF:-1,|TR| TGRT HABER
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84376
+#EXTINF:-1,|TR| BLOOMBERG HT FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84375
+#EXTINF:-1,|TR| HALK TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84374
+#EXTINF:-1,|TR| ARTI 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84372
+#EXTINF:-1,|TR| ULKE TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84371
+#EXTINF:-1,|TR| TVNET HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84370
+#EXTINF:-1,|TR| TRT BELGESEL HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84369
+#EXTINF:-1,|TR| DISCOVERY CHANNEL HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84368
+#EXTINF:-1,|TR| DISCOVERY SCIENCE HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84367
+#EXTINF:-1,|TR| DISCOVERY IDX HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84366
+#EXTINF:-1,|TR| NATIONAL GEO HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84365
+#EXTINF:-1,|TR| NATIONAL GEO WILD HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84364
+#EXTINF:-1,|TR| NATIONAL GEO PEOPLE HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84363
+#EXTINF:-1,|TR| HISTORY CHANNEL HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84362
+#EXTINF:-1,|TR| ANIMAL PLANET HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84361
+#EXTINF:-1,|TR| TRT WORLD HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84360
+#EXTINF:-1,|TR| YABAN TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84359
+#EXTINF:-1,|TR| BBC EARTH HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84358
+#EXTINF:-1,|TR| TGRT BELGESEL
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84357
+#EXTINF:-1,|TR| 24 KITCHEN
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84356
+#EXTINF:-1,|TR| DA VINCI LEARNING HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84355
+#EXTINF:-1,|TR| TRT COCUK HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84354
+#EXTINF:-1,|TR| TRT COCUK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84353
+#EXTINF:-1,|TR| DISNEY CHANNEL
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84352
+#EXTINF:-1,|TR| DISNEY JUNIOR
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84351
+#EXTINF:-1,|TR| CARTOON NETWORK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84350
+#EXTINF:-1,|TR| BABY TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84349
+#EXTINF:-1,|TR| MINIKA GO TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84348
+#EXTINF:-1,|TR| MINIKA COCUK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84347
+#EXTINF:-1,|TR| GALA TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84346
+#EXTINF:-1,|TR| NICK JR
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84345
+#EXTINF:-1,|TR| NICKELODEON TURKIYE
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84344
+#EXTINF:-1,|TR| TLC HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84343
+#EXTINF:-1,|TR| ATV AVRUPA
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84342
+#EXTINF:-1,|TR| EURO D
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84341
+#EXTINF:-1,|TR| EUROSTAR
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84340
+#EXTINF:-1,|TR| SHOW TURK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84339
+#EXTINF:-1,|TR| TV 8 INT
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84338
+#EXTINF:-1,|TR| KANAL 7 AVRUPA
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84337
+#EXTINF:-1,|TR| TRT TURK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84336
+#EXTINF:-1,|TR| TEVE 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84335
+#EXTINF:-1,|TR| TGRT EU
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84334
+#EXTINF:-1,|TR| SHOW MAX
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84333
+#EXTINF:-1,|TR| KANAL B
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84332
+#EXTINF:-1,|TR| DRT DENIZLI
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84331
+#EXTINF:-1,|TR| DEHA TV DENIZLI
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84330
+#EXTINF:-1,|TR| KANAL 3 (Afyon)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84329
+#EXTINF:-1,|TR| KANAL 26
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84328
+#EXTINF:-1,|TR| ES TV (Eskisehir)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84327
+#EXTINF:-1,|TR| TV 4 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84326
+#EXTINF:-1,|TR| 365 TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84325
+#EXTINF:-1,|TR| ALTAS TV (Ordu)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84324
+#EXTINF:-1,|TR| TV 5
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84323
+#EXTINF:-1,|TR| TV 41
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84322
+#EXTINF:-1,|TR| KANAL 60
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84321
+#EXTINF:-1,|TR| ER TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84320
+#EXTINF:-1,|TR| DIYAR TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84319
+#EXTINF:-1,|TR| BEYKENT TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84318
+#EXTINF:-1,|TR| VIZYON 58
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84317
+#EXTINF:-1,|TR| TRT DIYANET HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84316
+#EXTINF:-1,|TR| TRT AVAZ
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84315
+#EXTINF:-1,|TR| LINE TV (Bursa)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84314
+#EXTINF:-1,|TR| BRT SPOR HD (Kıbrıs)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84313
+#EXTINF:-1,|TR| ADA TV (Kıbrıs)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84312
+#EXTINF:-1,|TR| KIBRIS GENC TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84311
+#EXTINF:-1,|TR| AS TV BURSA
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84310
+#EXTINF:-1,|TR| AKILLI TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84309
+#EXTINF:-1,|TR| YOL TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84308
+#EXTINF:-1,|TR| KOY TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84307
+#EXTINF:-1,|TR| KON TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84306
+#EXTINF:-1,|TR| MILYON TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84305
+#EXTINF:-1,|TR| KANAL AVRUPA
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84304
+#EXTINF:-1,|TR| MEDINE CANLI
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84303
+#EXTINF:-1,|TR| FM TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84302
+#EXTINF:-1,|TR| GLOBAL HABER HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84301
+#EXTINF:-1,|TR| DOST TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84300
+#EXTINF:-1,|TR| SEMERKAND HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84299
+#EXTINF:-1,|TR| MGC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84298
+#EXTINF:-1,|TR| KANAL 68
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84297
+#EXTINF:-1,|TR| UCANKUS
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84296
+#EXTINF:-1,|TR| TV1 (Kayseri)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84295
+#EXTINF:-1,|TR| TV KAYSERI
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84294
+#EXTINF:-1,|TR| MAVI KARADENIZ
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84293
+#EXTINF:-1,|TR| VATAN TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84292
+#EXTINF:-1,|TR| SAT7 TURK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84291
+#EXTINF:-1,|TR| KANAL URFA
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84290
+#EXTINF:-1,|TR| CIFTCI TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84289
+#EXTINF:-1,|TR| AKSU TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84288
+#EXTINF:-1,|TR| AKIT TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84287
+#EXTINF:-1,|TR| ANADOLU DERNEK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84286
+#EXTINF:-1,|TR| CAY TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84285
+#EXTINF:-1,|TR| 38 KENT TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84284
+#EXTINF:-1,|TR| ADANA TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84283
+#EXTINF:-1,|TR| MEDINE TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84282
+#EXTINF:-1,|TR| RUMELI TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84281
+#EXTINF:-1,|TR| KANAL V (Antalya)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84280
+#EXTINF:-1,|TR| YENI KOCAELI TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84279
+#EXTINF:-1,|TR| TON TV (Canakkale)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84278
+#EXTINF:-1,|TR| TV 79 (Kilis)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84277
+#EXTINF:-1,|TR| UZAY HABER
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84276
+#EXTINF:-1,|TR| KUDUS TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84275
+#EXTINF:-1,|TR| MERKEZ TV (Bolu)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84274
+#EXTINF:-1,|TR| REHBER TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84273
+#EXTINF:-1,|TR| RTV 23 (Elazıg)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84272
+#EXTINF:-1,|TR| TRT MUZIK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84271
+#EXTINF:-1,|TR| DREAM TURK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84270
+#EXTINF:-1,|TR| DREAM TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84269
+#EXTINF:-1,|TR| KRAL POP HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84268
+#EXTINF:-1,|TR| KRAL TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84267
+#EXTINF:-1,|TR| POWERTURK HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84266
+#EXTINF:-1,|TR| NR1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84265
+#EXTINF:-1,|TR| TRT SPOR HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84264
+#EXTINF:-1,|TR| DMAX HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84263
+#EXTINF:-1,|TR| A SPOR HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84262
+#EXTINF:-1,|TR| EUROSPORT 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
+#EXTINF:-1,|TR| EUROSPORT 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84260
+#EXTINF:-1,|TR| FENERBAHCE TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84259
+#EXTINF:-1,|TR| GS TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84258
+#EXTINF:-1,|TR| BURSA TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84257
+#EXTINF:-1,|TR| NBA HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84256
+#EXTINF:-1,|TR| SPORTS TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84255
+#EXTINF:-1,|TR| TAY TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84254
+#EXTINF:-1,|TR| TJK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84253
+#EXTINF:-1,|TR| BEIN BOX OFFICE 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84252
+#EXTINF:-1,|TR| BEIN BOX OFFICE 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84251
+#EXTINF:-1,|TR| BEIN BOX OFFICE 3HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84250
+#EXTINF:-1,|TR| SLTV ACTION HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84249
+#EXTINF:-1,|TR| SLTV KOMEDI HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84248
+#EXTINF:-1,|TR| SLTV GOLD HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84247
+#EXTINF:-1,|TR| TELE 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84246
+#EXTINF:-1,|TR| BENGUTURK TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84245
+#EXTINF:-1,|TR| FX HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84244
+#EXTINF:-1,|TR| KANAL 32
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84243
+#EXTINF:-1,|TR| KANAL T (Kıbrıs)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84242
+#EXTINF:-1,|TR|  WOMAN TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84241
+#EXTINF:-1,|TR| 24 TV FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84240
+#EXTINF:-1,|TR| AKTIF TV BELCIKA HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84239
+#EXTINF:-1,|TR| CAN TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84238
+#EXTINF:-1,|TR| KABE CANLI
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84237
+#EXTINF:-1,|TR| KANAL15
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84236
+#EXTINF:-1,|TR| ON6
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84235
+#EXTINF:-1,|TR| KANAL 43
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84234
+#EXTINF:-1,|TR| KANAL K33 (Mersin)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84233
+#EXTINF:-1,|TR| MC EU
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84232
+#EXTINF:-1,|TR| MAKSIM
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84231
+#EXTINF:-1,|TR| KIBRIS TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84230
+#EXTINF:-1,|TR| HRT AKDENIZ TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84229
+#EXTINF:-1,|TR| KURD JIN TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84228
+#EXTINF:-1,|TR| HILAL TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84227
+#EXTINF:-1,|TR| KRT HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84226
+#EXTINF:-1,|TR| LALEGUL TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84225
+#EXTINF:-1,|TR| MELTEM TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84224
+#EXTINF:-1,|TR| SKYLIVE EUROPA
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84223
+#EXTINF:-1,|TR| ANKA TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84222
+#EXTINF:-1,|TR| SLTV KEMAL SUNAL
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84221
+#EXTINF:-1,|TR| SLTV KEMAL SUNAL 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84220
+#EXTINF:-1,|TR| SLTV KEMAL SUNAL 2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84219
+#EXTINF:-1,|TR| SLTV PREMIUM HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84218
+#EXTINF:-1,|TR| SLTV SINEMA TURK HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84217
+#EXTINF:-1,|TR| SLTV YESILCAM 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84216
+#EXTINF:-1,|TR| SLTV YESILCAM 2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84215
+#EXTINF:-1,|TR| SLTV YESILCAM 3
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84214
+#EXTINF:-1,|TR| Tom and Jery
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84213
+#EXTINF:-1,|TR| TVDEN
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84212
+#EXTINF:-1,|TR| VIZYON 58 (Sivas)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84211
+#EXTINF:-1,|TR| YILDIZ RIZE
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84210
+#EXTINF:-1,|TR| DIYALOG TV (Kıbrıs)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84209
+#EXTINF:-1,|TR| EGETURK TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84208
+#EXTINF:-1,|TR| GONCA TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84207
+#EXTINF:-1,|TR| Edessa TV (Şanlıurfa)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84206
+#EXTINF:-1,|TR| GUNEYDOGU TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84205
+#EXTINF:-1,|TR| ON4TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84204
+#EXTINF:-1,|TR| TEMPO TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84203
+#EXTINF:-1,|TR| PAMUKKALE TV (Denizli)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84202
+#EXTINF:-1,|TR| POWER TV HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84201
+#EXTINF:-1,|TR| SL Kukuli TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84200
+#EXTINF:-1,|TR| SL Niloya TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84199
+#EXTINF:-1,|TR| SL Pepee TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84198
+#EXTINF:-1,|TR| SL Rafadan Tayfa TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84197
+#EXTINF:-1,|TR| TVO
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84196
+#EXTINF:-1,|TR| TMB
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84195
+#EXTINF:-1,|TR| KANAL ANTALYA
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84194
+#EXTINF:-1,|TR| A SPOR HD+
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84193
+#EXTINF:-1,|TR|  TV 100 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84192
+#EXTINF:-1,|TR| A HABER FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84191
+#EXTINF:-1,|TR| A HABER HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84190
+#EXTINF:-1,|TR| A PARA HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84189
+#EXTINF:-1,|TR| ATV FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84188
+#EXTINF:-1,|TR| BOOMERANG HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84187
+#EXTINF:-1,|TR| BRT YASAM  (Kıbrıs)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84186
+#EXTINF:-1,|TR| BRUKSELTURK TV
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84185
+#EXTINF:-1,|TR| CNN TURK FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84184
+#EXTINF:-1,|TR| COCUK SMART HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84183
+#EXTINF:-1,|TR| CUKUROVA TURK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84182
+#EXTINF:-1,|TR| FOX TV FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84181
+#EXTINF:-1,|TR| KANAL D FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84180
+#EXTINF:-1,|TR| SHOW TV FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84179
+#EXTINF:-1,|TR| KANAL SIM (Kıbrıs)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84178
+#EXTINF:-1,|TR| SRT (Sivas)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84177
+#EXTINF:-1,|TR| TRT 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84176
+#EXTINF:-1,|TR| TRT MUZIK HD+
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84175
+#EXTINF:-1,|TR| TV EM
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84174
+#EXTINF:-1,-----TR SPOR-----
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84173
+#EXTINF:-1,|TR| BEIN SPORTS 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84172
+#EXTINF:-1,|TR| BEIN SPORTS 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84171
+#EXTINF:-1,|TR| BEIN SPORTS 4 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84170
+#EXTINF:-1,|TR| BEIN SPOR 1 MATCH TIME
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84169
+#EXTINF:-1,|TR| BEIN SPOR 2 HD+
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84168
+#EXTINF:-1,|TR| BEIN SPOR 3 HD+
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84167
+#EXTINF:-1,|TR| BEIN SPOR 4 HD+
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84166
+#EXTINF:-1,|TR| BEIN SPOR 1 (BB)
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84165
+#EXTINF:-1,|TR| Tivibu Spor HD+
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84164
+#EXTINF:-1,|TR| Tivibu Spor 2 HD+
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84163
+#EXTINF:-1,|TR| TIVIBU SPOR HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84162
+#EXTINF:-1,|TR| Smart Spor HD+
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84161
+#EXTINF:-1,|TR| Smart Spor HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84160
+#EXTINF:-1,|TR| BEIN SPOR TV  4
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84159
+#EXTINF:-1,|TR| BEINSPOR 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84158
+#EXTINF:-1,|TR| BEINSPOR 4 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84157
+#EXTINF:-1,|TR| SMART SPOR  HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84156
+#EXTINF:-1,|TR| TIVIBU SPOR 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84155
+#EXTINF:-1,|TR| TIVIBU SPOR 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84154
+#EXTINF:-1,|FR| TF1_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8398
+#EXTINF:-1,|FR| FRANCE_2_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8446
+#EXTINF:-1,|FR| FRANCE_3_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8445
+#EXTINF:-1,|FR| FRANCE_4_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8444
+#EXTINF:-1,|FR| FRANCE_5_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8443
+#EXTINF:-1,|FR| FRANCE_O_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8441
+#EXTINF:-1,|FR| FRANCE_O_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/7663
+#EXTINF:-1,|FR| M6_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8432
+#EXTINF:-1,|FR| 6TER_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8494
+#EXTINF:-1,|FR| TMC_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8396
+#EXTINF:-1,|FR| ARTE_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8489
+#EXTINF:-1,|FR| RMC Story_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8418
+#EXTINF:-1,|FR| TF1_series_Films_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8436
+#EXTINF:-1,|FR| TV_BREIZH_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8393
+#EXTINF:-1,|FR| EURONEWS_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8450
+#EXTINF:-1,|FR| BFM_TV_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8484
+#EXTINF:-1,|FR| TV5_MONDE_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8392
+#EXTINF:-1,|FR| C_NEWS_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8474
+#EXTINF:-1,|FR| CANAL+ SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8481
+#EXTINF:-1,|FR| CANAL+ CINEMA_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8480
+#EXTINF:-1,|FR| CANAL+ DECALE SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8479
+#EXTINF:-1,|FR| CANAL+ FAMILY SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8478
+#EXTINF:-1,|FR| CANAL_SERIES_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8477
+#EXTINF:-1,|FR| CANAL_SPORT_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8476
+#EXTINF:-1,|FR| CINE_CLUB_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8468
+#EXTINF:-1,|FR| CINE_PREMIER_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8470
+#EXTINF:-1,|FR| CINE_CLASSIC_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8469
+#EXTINF:-1,|FR| CINE_EMOTION_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8467
+#EXTINF:-1,|FR| CINE_FAMIZ_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8466
+#EXTINF:-1,|FR| CINE_FRISSON_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8465
+#EXTINF:-1,|FR| 13EME_RUE_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8495
+#EXTINF:-1,|FR| CHERIE_25_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8471
+#EXTINF:-1,|FR| COMEDIE+_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8463
+#EXTINF:-1,|FR| NRJ 12_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8420
+#EXTINF:-1,|FR| TFX_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8419
+#EXTINF:-1,|FR| RTL9_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8410
+#EXTINF:-1,|FR| W9_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8388
+#EXTINF:-1,|FR| PARAMOUNT_CHANNEL_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8417
+#EXTINF:-1,|FR| SYFY_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8401
+#EXTINF:-1,|FR| EQUIDIA LIFE SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8452
+#EXTINF:-1,|FR| EQUIDIA LIVE SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8451
+#EXTINF:-1,|FR| EUROSPORT 1 SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8448
+#EXTINF:-1,|FR| EUROSPORT 2 SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8449
+#EXTINF:-1,|FR| INFOSPORT_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8434
+#EXTINF:-1,|FR| GOLF CHANNEL SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8438
+#EXTINF:-1,|FR| GOLF+ SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8439
+#EXTINF:-1,|FR| L'EQUIPE_21_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8433
+#EXTINF:-1,|FR| RMC_SPORT 3 HD Bk
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8403
+#EXTINF:-1,|FR| RMC_SPORT4 HD Bk
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8402
+#EXTINF:-1,|FR| BEINSPORT_2_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8487
+#EXTINF:-1,|FR| BEINSPORT_3_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8486
+#EXTINF:-1,|FR| ANIMAUX_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8490
+#EXTINF:-1,|FR| DISCOVERY_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8460
+#EXTINF:-1,|FR| DISCOVERY-SCIENCE_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8459
+#EXTINF:-1,|FR| PLANETE+_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8415
+#EXTINF:-1,|FR| PLANETE_AE_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8414
+#EXTINF:-1,|FR| PLANETE_CI_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8413
+#EXTINF:-1,|FR| RMC_DECOUVERTE_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8411
+#EXTINF:-1,|FR| USHUAIA_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8391
+#EXTINF:-1,|FR| NAT-GEO_WILD_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8424
+#EXTINF:-1,|FR| NATIONAL_GEOGRAPHIC_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8423
+#EXTINF:-1,|FR| MEZZO SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8428
+#EXTINF:-1,|FR| MEZZO_LIVE_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8427
+#EXTINF:-1,|FR| RFM_TV_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8412
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8462
+#EXTINF:-1,|FR| MCM TOP SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8429
+#EXTINF:-1,|FR| MCM_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8430
+#EXTINF:-1,|FR| MTV FRANCE HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8425
+#EXTINF:-1,|FR| ANIMAUX_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10064
+#EXTINF:-1,|FR| CANAL_J_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8475
+#EXTINF:-1,|FR| DISNEY_CHANNEL_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8458
+#EXTINF:-1,|FR| DISNEY XD SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8455
+#EXTINF:-1,|FR| DISNEY_JUNIOR_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8456
+#EXTINF:-1,|FR| GULLI_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8437
+#EXTINF:-1,|FR| MANGAS_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8431
+#EXTINF:-1,|FR| NICKELODEON-JUNIOR_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8421
+#EXTINF:-1,|FR| PIWI_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8416
+#EXTINF:-1,|FR| GAME_ONE_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8440
+#EXTINF:-1,|FR| TELETOON+_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8399
+#EXTINF:-1,|FR| TIJI_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8397
+#EXTINF:-1,|FR| CARTOON_NETWORK_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8472
+#EXTINF:-1,|FR| BOOMERANG_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8482
+#EXTINF:-1,|FR| BOING_FR_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8483
+#EXTINF:-1,|FR| TOONAMI_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10076
+#EXTINF:-1,|FR| ACTION_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8491
+#EXTINF:-1,|FR| C_STAR_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/8461
+#EXTINF:-1,A LA CARTE 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10299
+#EXTINF:-1,A LA CARTE 2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10298
+#EXTINF:-1,A LA CARTE 3
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10297
+#EXTINF:-1,A LA CARTE 4
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10296
+#EXTINF:-1,A LA CARTE 5
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10295
+#EXTINF:-1,A LA CARTE 6
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10294
+#EXTINF:-1,A LA CARTE 7
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10293
+#EXTINF:-1,A LA CARTE 8
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10292
+#EXTINF:-1,A LA CARTE 9
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/10291
+#EXTINF:-1,|MA| ARRIYADIA_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18756
+#EXTINF:-1,|AR| BEINSPORTS 1 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27669
+#EXTINF:-1,|AR| BEINSPORTS 2 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27668
+#EXTINF:-1,|AR| BEINSPORTS 3 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27667
+#EXTINF:-1,|AR| BEINSPORTS 4 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27666
+#EXTINF:-1,|AR| BEINSPORTS 5 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27665
+#EXTINF:-1,|AR| BEINSPORTS 6 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27664
+#EXTINF:-1,|AR| BEINSPORTS 7 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27663
+#EXTINF:-1,|AR| BEIN SPORTS 1 Premium FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27662
+#EXTINF:-1,|AR| BEIN SPORTS 2 Premium FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27661
+#EXTINF:-1,|AR| BEIN SPORTS 3 Premium FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27660
+#EXTINF:-1,|AR| BEINSPORTS 1 HEVC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27659
+#EXTINF:-1,|AR| BEINSPORTS 2 HEVC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27658
+#EXTINF:-1,|AR| BEINSPORTS 3 HEVC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27657
+#EXTINF:-1,|AR| BEINSPORTS 4 HEVC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27656
+#EXTINF:-1,|AR| BEINSPORTS 5 HEVC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27655
+#EXTINF:-1,|AR| BEINSPORTS 6 HEVC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27654
+#EXTINF:-1,|AR| BEINSPORTS 7 HEVC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27653
+#EXTINF:-1,|AR| BEINSPORTS 8 HEVC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27652
+#EXTINF:-1,|AR| BEINSPORTS 9 HEVC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27651
+#EXTINF:-1,|AR| BEINSPORTS 10 HEVC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/27650
+#EXTINF:-1,|AR| BEIN CARTOON NETWORK
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18590
+#EXTINF:-1,|AR| BEIN DREAMWORKS
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18342
+#EXTINF:-1,|AR| BEIN AnimalPlanet
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18341
+#EXTINF:-1,|AR|  BEIN NAT-GEO PEOPLE
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18339
+#EXTINF:-1,|AR| BEIN DMAX
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18337
+#EXTINF:-1,|AR| BEIN AMC
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18336
+#EXTINF:-1,|AR| beIN SPORTS XTRA 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/17892
+#EXTINF:-1,|AR| BEINMOVIES 2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/17889
+#EXTINF:-1,|AR| BEINMOVIES 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/17888
+#EXTINF:-1,|AR| BEIN SPORTS 1 Premium SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/15755
+#EXTINF:-1,|AR| BEINMOVIES 4
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/15751
+#EXTINF:-1,|AR| BEINMOVIES 3
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/15750
+#EXTINF:-1,|AR| BEIN SERIES 1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13665
+#EXTINF:-1,|AR| BEINSPORTS_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13150
+#EXTINF:-1,|AR| BEIN SPORTS 2 Premium HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13142
+#EXTINF:-1,|AR| BEINSPORTS_HD7
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13141
+#EXTINF:-1,|AR| BEIN SPORTS 3 Premium HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13140
+#EXTINF:-1,|AR| BEIN SPORTS 1 Premium HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13139
+#EXTINF:-1,|AR| BEINSPORTS_HD6
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13138
+#EXTINF:-1,|AR| BEINSPORTS_HD5
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/12994
+#EXTINF:-1,BEIN DRAMA
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/12985
+#EXTINF:-1,|AR| BEINSPORTS_HD4
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11142
+#EXTINF:-1,|AR| BEINSPORTS_HD3
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11141
+#EXTINF:-1,|AR| BEINSPORTS_HD2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11140
+#EXTINF:-1,|AR| BEINSPORTS_HD1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11138
+#EXTINF:-1,|AR| BEINSPORTS_SD1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9206
+#EXTINF:-1,|AR| BEINSPORTS_SD2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9205
+#EXTINF:-1,|AR| BEINSPORTS_SD3
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9204
+#EXTINF:-1,|AR| BEINSPORTS_SD4
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9203
+#EXTINF:-1,|AR| BEINSPORTS_SD5
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9202
+#EXTINF:-1,|AR| BEINSPORTS_SD6
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9201
+#EXTINF:-1,|AR| BEINSPORTS_SD7
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9200
+#EXTINF:-1,|AR| BEIN SPORTS 2 Premium SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9199
+#EXTINF:-1,|AR| BEIN SPORTS 3 Premium SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9198
+#EXTINF:-1,BEINSPORTS HD5 B
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/7927
+#EXTINF:-1,|AR| BEINSPORTS_News_HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/6193
+#EXTINF:-1,|FR| BEINSPORTS 3 H265
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72373
+#EXTINF:-1,|FR| BEINSPORTS 2 H265
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72372
+#EXTINF:-1,|FR| BEINSPORTS 1 H265
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72371
+#EXTINF:-1,|FR| BEINSPORTS_MAX 4_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47501
+#EXTINF:-1,|FR| BEINSPORTS_MAX 5_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47500
+#EXTINF:-1,|FR| BEINSPORTS_MAX 6_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47499
+#EXTINF:-1,|FR| BEINSPORTS_MAX 7_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47498
+#EXTINF:-1,|FR| BEINSPORTS_MAX 8_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47497
+#EXTINF:-1,|FR| BEINSPORTS_MAX 9_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47496
+#EXTINF:-1,|FR| BEINSPORT 1 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/32797
+#EXTINF:-1,|FR| BEINSPORT 2 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/32796
+#EXTINF:-1,|FR| BEINSPORT 3 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/32795
+#EXTINF:-1,|FR| BEINSPORT_1_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18321
+#EXTINF:-1,|AR| BEINSPORTS_GLOBAL
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/31503
